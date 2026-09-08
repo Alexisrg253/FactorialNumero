@@ -7,3 +7,7 @@ for (let i = 1; i <= numero; i++) {
 }
 
 console.log("El factorial de " + numero + " es: " + factorial);
+
+
+let numeros = 2;
+let factoriales = 3;
