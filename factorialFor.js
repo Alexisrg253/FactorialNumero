@@ -6,4 +6,7 @@ for (let i = 1; i <= numero; i++) {
     factorial = factorial * i;
 }
 
-console.log("El factorial de " + numero + " es: " + factorial); 
+console.log("El factorial de " + numero + " es: " + factorial);
+
+
+let numeros = 6;
